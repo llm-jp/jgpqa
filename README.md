@@ -4,13 +4,13 @@ This repository provides GPQA dataset translated from English into Japanese by [
 
 The dataset was translated from English to Japanese using machine translation, then checked and corrected by external experts.
 
-The links of the original GPQA dataset are [here](https://github.com/idavidrein/gpqa).
+The links of the original GPQA dataset are [idavidrein/gpqa](https://github.com/idavidrein/gpqa).
 
 ## Dataset Download
 
 dataset.zip contains the data files, and is password-proteced with this password: `deserted-untie-orchid`.
 
-Alternatively, the dataset is available on Hugging Face: Coming soon...
+Alternatively, the dataset is available on Hugging Face: [llm-jp/jgpqa](https://huggingface.co/datasets/llm-jp/jgpqa)
 
 ## Send Questions to
 
